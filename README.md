@@ -1,6 +1,5 @@
 # analisis-movilidad
 
-Enhorabuena!! Fuiste la primera!!
 
 # Objetivo
 
